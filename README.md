@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azulaZen 
+- 👋 Hi, I’m @Adolph Irizabimbuto
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning robot programming
 - 💞️ I’m looking to collaborate on ...
