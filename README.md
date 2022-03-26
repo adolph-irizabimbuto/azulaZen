@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning encryption algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-  email: adolph_12@hotmail.com.au
   linkedin: www.linkedin.com/in/adolph-irizabimbuto
 <!---
 azulaZen/azulaZen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
